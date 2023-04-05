@@ -154,5 +154,8 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+&nbsp; 
+
+### Link to deployed application: https://juanx198522.github.io/01-challenge/
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
